@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "graph-practice"
+		}
+	],
+	"settings": {
+		"prettier.tabWidth": 4,
+	}
+}
